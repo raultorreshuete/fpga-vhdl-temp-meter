@@ -1,0 +1,120 @@
+D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity timer
+-- Compiling architecture rtl of timer
+End time: 09:11:24 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity displays
+-- Compiling architecture rtl of displays
+End time: 09:11:24 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity control_pulsadores
+-- Compiling architecture rtl of control_pulsadores
+End time: 09:11:24 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:25 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity top
+-- Compiling architecture struct of top
+-- Loading entity timer
+-- Loading entity master_spi_3_hilos
+-- Loading entity control_pulsadores
+-- Loading entity interfaz_pulsadores
+-- Loading entity displays
+End time: 09:11:25 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_control_pulsadores
+-- Compiling architecture test of tb_control_pulsadores
+-- Loading entity control_pulsadores
+End time: 09:11:25 on May 21,2025, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity master_spi_3_hilos
+-- Compiling architecture rtl of master_spi_3_hilos
+End time: 09:11:24 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity test_top
+-- Compiling architecture test of test_top
+-- Loading entity top
+End time: 09:11:24 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd {1 {vcom -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+Start time: 09:11:24 on May 21,2025
+vcom -reportprogress 300 -work work -2002 -explicit D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity interfaz_pulsadores
+-- Compiling architecture rtl of interfaz_pulsadores
+End time: 09:11:24 on May 21,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}

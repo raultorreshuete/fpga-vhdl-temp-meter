@@ -1,0 +1,384 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3-LAB/modelsim
+Econtrol_pulsadores
+Z0 w1747694414
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim
+Z6 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd
+Z7 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd
+l0
+L13
+VQZc;zRzjKN6nNf_Kfgkej0
+!s100 =80RXY09m5meQLmez3H2h1
+Z8 OV;C;10.4d;61
+32
+Z9 !s110 1747811494
+!i10b 1
+Z10 !s108 1747811494.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd|
+Z12 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/control_pulsadores.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+Z15 DEx4 work 18 control_pulsadores 0 22 QZc;zRzjKN6nNf_Kfgkej0
+l43
+L25
+VJO<VnazlCd=S]K=LZ38;P2
+!s100 f566YFUeAkSD?YKFi6JIe1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Edisplays
+Z16 w1747729959
+R1
+R2
+R3
+R4
+R5
+Z17 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd
+Z18 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd
+l0
+L32
+V?]`gOZmK?XOmALdWz=QIz0
+!s100 H;5kjF?c`^18BS84>e2^_3
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd|
+Z20 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/displays.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z21 DEx4 work 8 displays 0 22 ?]`gOZmK?XOmALdWz=QIz0
+l63
+L48
+VfOfUTkKQOaOQ=9[ARQ=QK2
+!s100 ;@?CUog6n^LR95jmR?JTb2
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Einterfaz_pulsadores
+Z22 w1747726360
+R1
+R2
+R3
+R4
+R5
+Z23 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd
+Z24 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd
+l0
+L13
+VR^eek:UO_eQ86C^BJ6WZ11
+!s100 ]I5PNS[Co^B935KkW:@212
+R8
+32
+R9
+!i10b 1
+R10
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd|
+Z26 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/interfaz_pulsadores.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z27 DEx4 work 19 interfaz_pulsadores 0 22 R^eek:UO_eQ86C^BJ6WZ11
+l67
+L37
+VK_GY]JU3FfL_iClYRE7AW2
+!s100 _OHFA;oNJ<lWzVea=O9AP1
+R8
+32
+R9
+!i10b 1
+R10
+R25
+R26
+!i113 1
+R13
+R14
+Emaster_spi_3_hilos
+Z28 w1747730782
+R1
+R2
+R3
+R4
+R5
+Z29 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd
+Z30 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd
+l0
+L5
+V;FB;mf_SKc?4oFUVR1SY50
+!s100 mZPAWz=L_^fOcSK;jAX5W1
+R8
+32
+R9
+!i10b 1
+R10
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd|
+Z32 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/master_spi_3_hilos.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z33 DEx4 work 18 master_spi_3_hilos 0 22 ;FB;mf_SKc?4oFUVR1SY50
+l37
+L19
+V[^hVBd=8OiB2hiLB3Z6zO3
+!s100 =c:40e92Wn2;CjOoN3[_P1
+R8
+32
+R9
+!i10b 1
+R10
+R31
+R32
+!i113 1
+R13
+R14
+Etb_control_pulsadores
+Z34 w1746898011
+R1
+R2
+R3
+R4
+R5
+Z35 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd
+Z36 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd
+l0
+L5
+VJ[[lg]J>lR=kdW2FVTm^33
+!s100 3S<n[fbKz;9knPa[Uk]ok0
+R8
+32
+R9
+!i10b 1
+R10
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd|
+Z38 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_pulsadores.vhd|
+!i113 1
+R13
+R14
+Atest
+R15
+R1
+R2
+R3
+R4
+DEx4 work 21 tb_control_pulsadores 0 22 J[[lg]J>lR=kdW2FVTm^33
+l31
+L8
+VXi[jnGQMJ4_:hWde84bXS2
+!s100 0l97@5PYEL39DP[GE3UQh2
+R8
+32
+R9
+!i10b 1
+R10
+R37
+R38
+!i113 1
+R13
+R14
+Etest_interfaz_spi
+w1747673128
+R1
+R2
+R3
+R4
+R5
+8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_interfaz_spi_entrega.vhd
+FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_interfaz_spi_entrega.vhd
+l0
+L12
+VoMLP2UC]<k7DH<UN9=GjO3
+!s100 >fDakngbYd`9Ni7>`HA5<1
+R8
+32
+!s110 1747811485
+!i10b 1
+!s108 1747811485.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_interfaz_spi_entrega.vhd|
+!s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_interfaz_spi_entrega.vhd|
+!i113 1
+R13
+R14
+Etest_top
+Z39 w1747727436
+R1
+R2
+R3
+R4
+R5
+Z40 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd
+Z41 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd
+l0
+L12
+V@=G:kR;?Ql^4]jcSN6:lz0
+!s100 [A3zER39F0TJYB3JFg^RV1
+R8
+32
+R9
+!i10b 1
+R10
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd|
+Z43 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/modelsim/test_top.vhd|
+!i113 1
+R13
+R14
+Atest
+Z44 DEx4 work 3 top 0 22 bWzUmzbaE]bY550@9<n5K1
+R1
+R2
+R3
+R4
+DEx4 work 8 test_top 0 22 @=G:kR;?Ql^4]jcSN6:lz0
+l36
+L15
+VUJ]g`n7D5>jY:7CHc^[j62
+!s100 <SN6W^BA57Xjj>_AWe=600
+R8
+32
+R9
+!i10b 1
+R10
+R42
+R43
+!i113 1
+R13
+R14
+Etimer
+Z45 w1747732734
+R1
+R2
+R3
+R4
+R5
+Z46 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd
+Z47 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd
+l0
+L23
+Vz>6?71G_87cI=PS9A_bNL2
+!s100 l^ek_H68TU7kF8J67:Ac13
+R8
+32
+R9
+!i10b 1
+R10
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd|
+Z49 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/timer.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+Z50 DEx4 work 5 timer 0 22 z>6?71G_87cI=PS9A_bNL2
+l49
+L41
+VdTgI=JBWz?bT]>f6mFS@U0
+!s100 XE^zNnd7DN6?4fI4RAn;b1
+R8
+32
+R9
+!i10b 1
+R10
+R48
+R49
+!i113 1
+R13
+R14
+Etop
+Z51 w1747696154
+R1
+R2
+R3
+R4
+R5
+Z52 8D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd
+Z53 FD:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd
+l0
+L5
+VbWzUmzbaE]bY550@9<n5K1
+!s100 T:=HMjBGmBhJ_QaoNMjfk0
+R8
+32
+Z54 !s110 1747811495
+!i10b 1
+R10
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd|
+Z56 !s107 D:/UNIVERSIDAD/10o_SEMESTRE/DD2/_PROYECTO/H3_funcional/hdl/top.vhd|
+!i113 1
+R13
+R14
+Astruct
+R21
+R27
+R15
+R33
+R50
+R1
+R2
+R3
+R4
+R44
+l45
+L22
+Z57 V1?K>WI`7FXfS@n0UH7eaB0
+Z58 !s100 X`hK1C6X04;HL[NS=V8FK0
+R8
+32
+R54
+!i10b 1
+R10
+R55
+R56
+!i113 1
+R13
+R14

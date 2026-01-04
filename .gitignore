@@ -1,0 +1,19 @@
+# Carpetas de base de datos de Quartus
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+
+# Archivos de log y reportes
+*.log
+*.rpt
+*.summary
+*.done
+*.jdi
+*.pin
+*.qws
+
+# Archivos de programación (opcional, súbelos si quieres que otros los graben)
+# *.sof
+# *.pof
